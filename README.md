@@ -1,2 +1,1 @@
-# data-engineering-steps
-my main repo for DE plans and steps
+🚀 Мой личный репозиторий для изучения Data Engineering — от SQL и DWH до Spark, Airflow и Kafka. Здесь конспекты, практика и заметки по мере прохождения роадмапа. 📚 Прогресс веду по веткам: одна тема — одна ветка, потом merge в main.
